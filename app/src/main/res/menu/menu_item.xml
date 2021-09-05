@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_enable_console_log"
+        android:title="Enable console log"/>
+    <item
+        android:id="@+id/menu_disable_console_log"
+        android:title="Disable console log"/>
+
+    <item
+        android:id="@+id/menu_clear_console_log"
+        android:title="Clear console log"/>
+</menu>
